@@ -1,0 +1,72 @@
+[[GCCBootstrapMacOS]]
+arch = "x86_64"
+git-tree-sha1 = "89aba6342732c549ac4d11991db40a45c912fbeb"
+libc = "glibc"
+os = "linux"
+target_arch = "aarch64"
+target_os = "macos"
+
+    [[GCCBootstrapMacOS.download]]
+    sha256 = "2d6e47736e23867238e8505c0e8a70f009d9223918d1c440f4f69601f2fe335b"
+    url = "https://github.com/staticfloat/GCCBootstrapMacOS_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/GCCBootstrapMacOS-v14.2.0-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
+[[GCCBootstrapMacOS]]
+arch = "x86_64"
+git-tree-sha1 = "3757af52a87e1ea7243ce958e91b3df74046c4e8"
+libc = "glibc"
+os = "linux"
+target_arch = "x86_64"
+target_os = "macos"
+
+    [[GCCBootstrapMacOS.download]]
+    sha256 = "18e206dc78aba07e0d398ffaeab6ee4587c1bf07c1c8dccf050b113853366642"
+    url = "https://github.com/staticfloat/GCCBootstrapMacOS_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/GCCBootstrapMacOS-v14.2.0-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
+
+[[GCCBootstrapMacOS-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "ad3489eb1c2401a78051ea3bf32ea6cc3b99eda1"
+lazy = true
+libc = "glibc"
+os = "linux"
+target_arch = "aarch64"
+target_os = "macos"
+
+    [[GCCBootstrapMacOS-build_log.download]]
+    sha256 = "e06d266c37e25d2daff418b79c32b13b09c6c01508bee0f2414eda96785d3b86"
+    url = "https://github.com/staticfloat/GCCBootstrapMacOS_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/GCCBootstrapMacOS-build_log-v14.2.0-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
+[[GCCBootstrapMacOS-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "57cd14dd51cc4633e7ab83e6e5b2cc0c165a10be"
+lazy = true
+libc = "glibc"
+os = "linux"
+target_arch = "x86_64"
+target_os = "macos"
+
+    [[GCCBootstrapMacOS-build_log.download]]
+    sha256 = "66114b7b7a042ce8d9e0217ab0533fa487b7e3c2561cf63952cfe5b13a0c4fc6"
+    url = "https://github.com/staticfloat/GCCBootstrapMacOS_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/GCCBootstrapMacOS-build_log-v14.2.0-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
+
+[[GCCBootstrapMacOS-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "e177d60cdaf995d8010192bd6f98c6fd4f8e79a2"
+lazy = true
+libc = "glibc"
+os = "linux"
+target_arch = "aarch64"
+target_os = "macos"
+
+    [[GCCBootstrapMacOS-extract_log.download]]
+    sha256 = "071a7c89e1c26818a1dde1f2d8cf6e25ae837a6ef4d08d33fde34e5309676597"
+    url = "https://github.com/staticfloat/GCCBootstrapMacOS_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/GCCBootstrapMacOS-extract_log-v14.2.0-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
+[[GCCBootstrapMacOS-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "83372281e61904bb0e2ed897a18e36f214763a89"
+lazy = true
+libc = "glibc"
+os = "linux"
+target_arch = "x86_64"
+target_os = "macos"
+
+    [[GCCBootstrapMacOS-extract_log.download]]
+    sha256 = "ed72dc324128427ecc438bf5818464b5403060f3e33b51c4880846bcc81e4f25"
+    url = "https://github.com/staticfloat/GCCBootstrapMacOS_jll.jl/releases/download/v14.2.0-GCCBootstrap-x86_64-linux-gnu/GCCBootstrapMacOS-extract_log-v14.2.0-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
